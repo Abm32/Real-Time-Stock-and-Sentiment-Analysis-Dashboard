@@ -1,0 +1,6 @@
+streamlit
+pymongo
+requests
+python-dotenv
+gemini
+databricks-cli
